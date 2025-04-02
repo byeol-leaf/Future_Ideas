@@ -1,16 +1,23 @@
 :: FUTURE IDEAS ::
 
-FPALs
+PFALs
 - Arduino Projects
 - RaspberryPi Projects
-- Growing Lettuces
-- Growing Cucumbers
-- Growing Tomatoes
-- Growing microgreens
+- Lettuce
+- Basil
+- Cucumber
+- Tomato
+- Strawberry
+- Microgreen
+- Seedling
 
 MachineLearning & DeepLearning
-- Image-based weed detection
-- Image-based plant disease control
-- Image-based fruit mature configuration by color
+- Soybean Projects
+- Rice Projects
+- ComputerVision_Weed detection
+- ComputerVision_Plant disease control
+- ComputerVision_Fruit maturity status
+- ComputerVision_Growth stages
+- ComputerVision_Varieties
 
-lastest change 2025-04-02 09:57 (YYYY-MM-DD, GMT + 09:00)
+lastest change 2025-04-02 11:02 (YYYY-MM-DD, UTC + 09:00)
